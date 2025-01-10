@@ -5,6 +5,6 @@ server:
   default:
     url: localhost
   remote:
-    url: skyc.in
+    url: 
   local:
     url: localhost
